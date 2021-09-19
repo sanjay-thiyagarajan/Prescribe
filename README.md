@@ -15,7 +15,8 @@ It includes the following features :
 2.	Verification of doctors. This will ensure that your data will not go to the wrong hands.
 3.	Doctors are able to send reports and prescriptions to the patients by scanning the patient’s QR code.
 4.	Patients can edit and save their details in their profile page and send these details to the doctors.  
-5.	The app ensures no misplacement of papers and reports.
+5.	The app ensures no misplacement of papers and reports.  
+
 ## How we built it  
 
 -	After quite a bit of time spent on coming up with an idea, we finally landed on this topic which can be of some use to the doctors and the patients.
@@ -27,9 +28,9 @@ It includes the following features :
 
 ## Accomplishments that we are proud of  
 
-So as of now, we are newbies to the world of hackathons and we hope to explore this fantastic arena more. First of all, we are Thankful to Hero Hacks,(it’s sponsors) and MLH for letting us participate in this hackathon. More than anything we enjoyed building the application in the given time frame and even more happy that we were able to think of a solution to the problem to solace our community, On top of all this we are absolutely certain that the bonding of our team members has increased to a next level. And now We are looking forward to participating in more hackathons, thanks to MLH and the sponsors.  
+So as of now, we are newbies to the world of hackathons and we hope to explore this fantastic arena more. First of all, we are thankful to HackMIT team for letting us participate in this hackathon. More than anything we enjoyed building the application in the given time frame and even more happy that we were able to think of a solution to the problem to solace our community
 
-## What's next for Health-Heroes  
+## What's next for Prescribe 
 
 -	Our first plan of action would be to reach out to clinics or small-scale medical organizations and propose this idea of an application to them.
 -	Connecting pharmacists with this app to make the delivering process of medicines much smoother.
