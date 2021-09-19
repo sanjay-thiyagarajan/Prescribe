@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.MainActivity"
+    android:background="@drawable/doctor_bg2"
+    >
+
+    <TextView
+        android:id="@+id/app_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/billabong"
+        android:text="@string/app_name"
+        android:textColor="@android:color/white"
+        android:textSize="65sp"
+
+        />
+
+    <TextView
+        android:id="@+id/desc_txt_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/app_title"
+        android:layout_centerHorizontal="true"
+        android:text="Keeps Log Of Medical Records"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/signup_button"
+        android:layout_width="170dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/desc_txt_1"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btn_layout_1"
+        android:backgroundTint="@android:color/white"
+        android:gravity="center"
+        android:text="Sign Up"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="170dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/signup_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_layout_1"
+        android:backgroundTint="@android:color/holo_orange_dark"
+        android:padding="8dp"
+        android:gravity="center"
+        android:text="Login"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+
+
+</RelativeLayout>
